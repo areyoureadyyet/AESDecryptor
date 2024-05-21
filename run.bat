@@ -1,2 +1,2 @@
-javac AESDecryption.java
-java AESDecryption
+javac AESDecryptor.java
+java AESDecryptor
