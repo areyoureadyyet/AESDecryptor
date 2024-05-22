@@ -5,5 +5,5 @@
 
 * Windows
   # Run the program simply by running "run.bat"
-* Linux
+* Linux/Mac
   # Run the program simply by running "run.sh"
